@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.egg-info/
+dist/
+build/
+.idea/
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db
+reports/
+models/
+.venv/
+shap_plots/
+fairness_reports/
+model_cards/
