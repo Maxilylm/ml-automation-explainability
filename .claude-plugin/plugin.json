@@ -1,6 +1,6 @@
 {
   "name": "ml-automation-explainability",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Model explainability and fairness extension for ml-automation. SHAP, LIME, feature importance, model cards, fairness audits, and regulatory compliance documentation.",
   "author": { "name": "Maximo Lorenzo y Losada" },
   "repository": "https://github.com/Maxilylm/ml-automation-explainability",
