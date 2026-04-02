@@ -2,7 +2,7 @@
 name: pdp-ice
 description: "Generate Partial Dependence and ICE plots. Visualize feature effects on predictions, detect interactions, and identify non-linear relationships."
 aliases: [partial dependence, ice plot, feature effect, marginal effect, pdp plot]
-extends: ml-automation
+extends: spark
 user_invocable: true
 ---
 

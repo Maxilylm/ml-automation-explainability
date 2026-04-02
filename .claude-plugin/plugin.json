@@ -1,10 +1,10 @@
 {
-  "name": "ml-automation-explainability",
+  "name": "spark-explainability",
   "version": "0.2.0",
-  "description": "Model explainability and fairness extension for ml-automation. SHAP, LIME, feature importance, model cards, fairness audits, and regulatory compliance documentation.",
+  "description": "Model explainability and fairness extension for spark. SHAP, LIME, feature importance, model cards, fairness audits, and regulatory compliance documentation.",
   "author": { "name": "Maximo Lorenzo y Losada" },
   "repository": "https://github.com/Maxilylm/ml-automation-explainability",
   "license": "MIT",
-  "keywords": ["explainability", "shap", "lime", "fairness", "model-card", "interpretability", "bias", "responsible-ai", "ml-automation-extension"],
-  "dependencies": ["ml-automation-core"]
+  "keywords": ["explainability", "shap", "lime", "fairness", "model-card", "interpretability", "bias", "responsible-ai", "spark-extension"],
+  "dependencies": ["spark-core"]
 }

@@ -4,7 +4,7 @@ description: "Generate model explanations: SHAP, LIME, feature importance, parti
 model: sonnet
 color: "#10B981"
 tools: [Read, Write, Bash(*), Glob, Grep]
-extends: ml-automation
+extends: spark
 routing_keywords: [shap, lime, feature importance, partial dependence, ice plot, model explanation, explainability, interpretability, model interpret]
 hooks_into:
   - after-evaluation

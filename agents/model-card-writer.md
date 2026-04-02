@@ -4,7 +4,7 @@ description: "Generate model cards and documentation for regulatory compliance (
 model: sonnet
 color: "#047857"
 tools: [Read, Write, Bash(*), Glob, Grep]
-extends: ml-automation
+extends: spark
 routing_keywords: [model card, model documentation, regulatory compliance, eu ai act, sr 11-7, model risk management, model governance]
 ---
 

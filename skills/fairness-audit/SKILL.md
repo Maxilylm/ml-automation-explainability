@@ -2,7 +2,7 @@
 name: fairness-audit
 description: "Audit models for bias and fairness across protected groups. Demographic parity, equalized odds, disparate impact, intersectional analysis."
 aliases: [bias audit, fairness check, model bias, responsible ai audit, discrimination check]
-extends: ml-automation
+extends: spark
 user_invocable: true
 ---
 

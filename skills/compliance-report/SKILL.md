@@ -2,7 +2,7 @@
 name: compliance-report
 description: "Generate regulatory compliance documentation. EU AI Act, SR 11-7 (OCC), model risk management, conformity assessment, and gap analysis."
 aliases: [regulatory compliance, eu ai act, sr 11-7, model risk, model governance, compliance check]
-extends: ml-automation
+extends: spark
 user_invocable: true
 ---
 

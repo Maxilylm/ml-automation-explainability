@@ -2,7 +2,7 @@
 name: feature-importance
 description: "Compute and compare feature importance using multiple methods: permutation, SHAP, built-in. Cross-method rank correlation and consensus ranking."
 aliases: [variable importance, feature ranking, feature selection importance, important features]
-extends: ml-automation
+extends: spark
 user_invocable: true
 ---
 

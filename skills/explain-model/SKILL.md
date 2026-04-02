@@ -2,7 +2,7 @@
 name: explain-model
 description: "Generate SHAP and LIME explanations for trained ML models. Produces global feature importance, local prediction explanations, and interpretability artifacts."
 aliases: [shap, lime, model explanation, explain predictions, model interpretability]
-extends: ml-automation
+extends: spark
 user_invocable: true
 ---
 

@@ -1,4 +1,4 @@
-# ml-automation-explainability
+# spark-explainability
 
 Model explainability and fairness extension for [ml-automation](https://github.com/Maxilylm/ml-automation-core).
 
@@ -12,7 +12,7 @@ Model explainability and fairness extension for [ml-automation](https://github.c
 ## Installation
 
 ```bash
-claude plugin add /path/to/ml-automation-explainability
+claude plugin add /path/to/spark-explainability
 ```
 
 ## What's Included
