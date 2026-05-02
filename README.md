@@ -1,10 +1,10 @@
 # spark-explainability
 
-Model explainability and fairness extension for [ml-automation](https://github.com/Maxilylm/ml-automation-core).
+Model explainability and fairness extension for [ml-automation](https://github.com/BLEND360/ml-automation-core).
 
 ## Prerequisites
 
-- [ml-automation](https://github.com/Maxilylm/ml-automation-core) core plugin (>= v1.8.0)
+- [ml-automation](https://github.com/BLEND360/ml-automation-core) core plugin (>= v1.8.0)
 - Claude Code CLI
 - Python ML libraries (scikit-learn, XGBoost, LightGBM, etc.) for model loading
 - SHAP/LIME packages for explanation generation
