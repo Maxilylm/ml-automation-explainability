@@ -19,11 +19,11 @@ claude plugin add /path/to/spark-explainability
 
 ### Agents
 
-| Agent | Purpose | Hooks Into |
-|---|---|---|
-| `explainability-analyst` | SHAP, LIME, feature importance, PDP/ICE plots | `after-evaluation` |
-| `fairness-auditor` | Bias audits, demographic parity, equalized odds, disparate impact | `after-evaluation` |
-| `model-card-writer` | Model cards, regulatory compliance documentation | *(direct invocation)* |
+| Agent | Purpose |
+|---|---|
+| `explainability-analyst` | SHAP, LIME, feature importance, PDP/ICE plots |
+| `fairness-auditor` | Bias audits, demographic parity, equalized odds, disparate impact |
+| `model-card-writer` | Model cards, regulatory compliance documentation |
 
 ### Commands
 

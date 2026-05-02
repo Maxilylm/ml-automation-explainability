@@ -6,8 +6,6 @@ color: "#059669"
 tools: [Read, Write, Bash(*), Glob, Grep]
 extends: spark
 routing_keywords: [fairness, bias, demographic parity, equalized odds, disparate impact, protected attribute, fairness audit, model bias, responsible ai]
-hooks_into:
-  - after-evaluation
 ---
 
 # Fairness Auditor
